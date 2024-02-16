@@ -1,8 +1,14 @@
 # Channex Customer Agreement
 
-*Effective starting: June 20, 2020*
+*Effective starting: February 18, 2024*
 
-This Channex Customer Agreement (the “Agreement”) is between you and buuqit.com  Ltd (**09250795**) Trading as Channex (“Channex”). If you are agreeing to this Agreement not as an individual but on behalf of your company, then “Customer” or “you” means your company, and you are binding your company to this Agreement. Channex may modify this Agreement from time to time, subject to the terms in Section 26 (Changes to this Agreement) below.
+*What has changed since the 2002 agreement*
+- Removed some unneeded paragraphs covering downloadable software
+- Added exception to the agreement if you have signed a direct agreement with Channex
+
+This Channex Customer Agreement (the “Agreement”) is between you and channex.io Ltd (**09250795**) Trading as Channex (“Channex”). If you are agreeing to this Agreement not as an individual but on behalf of your company, then “Customer” or “you” means your company, and you are binding your company to this Agreement. Channex may modify this Agreement from time to time, subject to the terms in Section 25 (Changes to this Agreement) below.
+
+If you have a separate written agreement with Channex for your use of the Services, this agreement will not apply to you.
 
 By clicking on the “I agree” (or similar button) that is presented to you at the time of your Order, or by using or accessing Channex products, you indicate your assent to be bound by this Agreement.
 
@@ -12,7 +18,7 @@ This Agreement governs your initial purchase as well as any future purchases mad
 
 ## 2. Types of Channex Products.
 
-This Agreement governs (a) Channex’s commercially available downloadable software products (currently designated as “Server” or “Data Center” deployments) (“Software”), (b) Channex’s hosted or cloud-based solutions (currently designated as “Cloud” deployments) (“Hosted Services”), and (c) any related support or maintenance services provided by Channex. Software and Hosted Services, together with related Documentation, are referred to as “Products”. The Products and their permitted use are further described in Channex’s standard documentation (“Documentation”). Section 6 (Software Terms) applies specifically to Software, and Section 7 (Hosted Services Terms) applies specifically to Hosted Services, but unless otherwise specified, other provisions of this Agreement apply to all Products.
+This Agreement governs (a) Channex’s cloud-based channel manager, and (b) any related support or maintenance services provided by Channex. Software, this Agreement apply to all Channex Products.
 
 ## 3. Account Registration.
 
@@ -26,19 +32,16 @@ You may need to register for a Channex account in order to place orders or acces
 
 ## 5. Authorised Users.
 
-Only the specific individuals for whom you have paid the required fees and whom you designate through the applicable Product (“Authorised Users”) may access and use the Products. Some Products may allow you to designate different types of Authorised Users, in which case pricing and functionality may vary according to the type of Authorised User. Authorised Users may be you or your Affiliates’ employees, representatives, consultants, contractors, agents, or other third parties who are acting for your benefit or on your behalf. You may also permit your customers to have limited access to certain Products as Authorised Users. You may increase the number of Authorised Users permitted to access your instance of the Product by placing a new Order or, in some cases, directly through the Product. In all cases, you must pay the applicable fee for the increased number of Authorised Users. You are responsible for compliance with this Agreement by all Authorised Users. All use of Products by you and your Authorised Users must be within the Scope of Use and solely for the benefit of you or your Affiliates. “Affiliate” means an entity which, directly or indirectly, owns or controls, is owned or is controlled by or is under common ownership or control with a party, where “control” means the power to direct the management or affairs of an entity, and “ownership” means the beneficial ownership of 50% (or, if the applicable jurisdiction does not allow majority ownership, the maximum amount permitted under such law) or more of the voting equity securities or other equivalent voting interests of the entity.
+Only the specific individuals for whom you have paid the required fees and whom you designate through the applicable Product (“Authorised Users”) may access and use the Products. Some Products may allow you to designate different types of Authorised Users, in which case pricing and functionality may vary according to the type of Authorised User. Authorised Users may be you or your Affiliates’ employees, representatives, consultants, contractors, agents, or other third parties who are acting for your benefit or on your behalf.
 
 ## 6. Software Terms.
 
-6.1 Your License Rights. Subject to the terms and conditions of this Agreement, Channex grants you a non-exclusive, non-sublicenseable and non-transferable license to install and use the Software during the applicable License Term in accordance with this Agreement, your applicable Scope of Use, and the Documentation. The term of each Software license (“License Term”) will be specified in your Order. Your License Term will end upon any termination of this Agreement, even if it is identified as “perpetual” or if no expiration date is specified in your Order. The Software requires a license key in order to operate, which will be delivered as described in Section 10.2 (Delivery).
+6.1 Your License Rights. Subject to the terms and conditions of this Agreement, Channex grants you a non-exclusive, non-sublicenseable and non-transferable license to install and use the Software during the applicable License Term in accordance with this Agreement, your applicable Scope of Use, and the Documentation. The term of each Software license (“License Term”) will be specified in your Order. Your License Term will end upon any termination of this Agreement, even if it is identified as “perpetual” or if no expiration date is specified in your Order.
 
-6.2 Number of Instances. Unless otherwise specified in your Order, for each Software license that you purchase, you may install one production instance of the Software on systems owned or operated by you (or your third party service providers so long as you remain responsible for their compliance with the terms and conditions of this Agreement). We also make available “developer” licenses free of charge for certain of our Software offerings to allow you to deploy non-production instances, such as for staging or QA purposes. Details for how to request non-production licenses are available on our website.
+6.2 Attribution. In any use of the Software, you must include the following attribution to Channex on all user interfaces in the following format: “Powered by Channex,” which must in every case include a hyperlink to https://channex.io, and which must be in the same format as delivered in the Software.
 
-6.3 Your Modifications. Subject to the terms and conditions of this Agreement (including without limitation Section 2 (Combining the Products with Open Source Software) of Third Party Code in Channex Products): (1) for any elements of the Software provided by Channex in source code form, and to the extent permitted in the Documentation, you may modify such source code solely for purposes of developing bug fixes, customizations and additional features for the Software and (2) you may also modify the Documentation to reflect your permitted modifications of the Software source code or the particular use of the Products within your organization. Any modified source code or Documentation constitutes “Your Modifications”. You may use Your Modifications solely with respect to your own instances in support of your permitted use of the Software but you may not distribute the code to Your Modifications to any third party. Notwithstanding anything in this Agreement to the contrary, Channex has no support, warranty, indemnification or other obligation or liability with respect to Your Modifications or their combination, interaction or use with our Products. You shall indemnify, defend and hold us harmless from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys’ fees and costs) arising out of or in connection with any claim brought against us by a third party relating to Your Modifications (including but not limited to any representations or warranties you make about Your Modifications or the Software) or your breach of this Section 6.3. This indemnification obligation is subject to your receiving (i) prompt written notice of such claim (but in any event notice in sufficient time for you to respond without prejudice); (ii) the exclusive right to control and direct the investigation, defense, or settlement of such claim; and (iii) all reasonably necessary cooperation of Channex at your expense.
+6.5 Third Party Code. The Software includes code and libraries licensed to us by third parties, including open source software. 
 
-6.4 Attribution. In any use of the Software, you must include the following attribution to Channex on all user interfaces in the following format: “Powered by Channex,” which must in every case include a hyperlink to https://channex.io, and which must be in the same format as delivered in the Software.
-
-6.5 Third Party Code. The Software includes code and libraries licensed to us by third parties, including open source software. See Third Party Code in Channex Products for additional provisions regarding our use of third party code.
 
 ## 7. Hosted Services Terms.
 
@@ -51,8 +54,6 @@ Only the specific individuals for whom you have paid the required fees and whom 
 7.4 Your Data. “Your Data” means any data, content, code, video, images or other materials of any type that you upload, submit or otherwise transmit to or through Hosted Services. You will retain all right, title and interest in and to Your Data in the form provided to Channex. Subject to the terms of this Agreement, you hereby grant to Channex a non-exclusive, worldwide, royalty-free right to (a) collect, use, copy, store, transmit, modify and create derivative works of Your Data, in each case solely to the extent necessary to provide the applicable Hosted Service to you and (b) for Hosted Services that enable you to share Your Data or interact with other people, to distribute and publicly perform and display Your Data as you (or your Authorised Users) direct or enable through the Hosted Service. Channex may also access your account or instance in order to respond to your support requests.
 
 7.5 Security. Channex implements security procedures to help protect Your Data from security attacks. However, you understand that use of the Hosted Services necessarily involves transmission of Your Data over networks that are not owned, operated or controlled by us, and we are not responsible for any of Your Data lost, altered, intercepted or stored across such networks. We cannot guarantee that our security procedures will be error-free, that transmissions of Your Data will always be secure or that unauthorised third parties will never be able to defeat our security measures or those of our third party service providers.
-
-7.6 Storage Limits. There may be storage limits associated with a particular Hosted Service. These limits are described in the services descriptions on our websites or in the Documentation for the particular Hosted Service. Channex reserves the right to charge for additional storage or overage fees at the rates specified on our website. We may impose new, or may modify existing, storage limits for the Hosted Services at any time in our discretion, with or without notice to you.
 
 7.7 Responsibility for Your Data.
 
@@ -72,9 +73,9 @@ Only the specific individuals for whom you have paid the required fees and whom 
 
 Channex will provide the support and maintenance services for the Products described in the Channex Support Policy (“Support and Maintenance”) during the period for which you have paid the applicable fee. Support and Maintenance is subject to the terms of the Channex Support Policy and will be provided at the support level and during the support term specified in your Order. The Channex Support Policy may be modified by Channex from time to time to reflect process improvements or changing practices. Support and Maintenance for Software includes access to New Releases, if and when available. You may use any New Releases that we provide to you during a valid support term in the same way that you use Software, and New Releases are included in the definition of Software in that case. “New Releases” are bug fixes, patches, major or minor releases, or any other changes, enhancements, or modifications to the Software that we make generally commercially available.
 
-## 9. TAM and Training Services.
+## 9. Training Services.
 
-We will provide Technical Account Manager (TAM) and training services purchased in an Order in accordance with the descriptions and conditions for those services set forth in the Order and the accompanying service descriptions or datasheets (“Ancillary Services”). Channex shall retain all right, title and interest in and to any materials, deliverables, modifications, derivative works or developments related to any training services we provide (“Training Materials”). Any Training Materials provided to you may be used only in connection with the Products subject to the same use restrictions for the Products. If applicable, you will reimburse Channex for reasonable travel and lodging expenses as incurred.
+We will provide Technical training for those services set forth in the Order and the accompanying service descriptions or datasheets (“Ancillary Services”). Channex shall retain all right, title and interest in and to any materials, deliverables, modifications, derivative works or developments related to any training services we provide (“Training Materials”). Any Training Materials provided to you may be used only in connection with the Products subject to the same use restrictions for the Products. If applicable, you will reimburse Channex for reasonable travel and lodging expenses as incurred.
 
 ## 10. Returns and Financial Terms.
 
@@ -96,7 +97,7 @@ Except as otherwise expressly permitted in this Agreement, you will not: (a) ren
 
 ## 13 Your Development of Add-Ons.
 
-13.1 License to Developer Guides. From time to time, Channex may publish SDK’s or API’s and associated guidelines (“Developer Guides”) to allow you to develop plugins, extensions, add-ons or other software products or services that interoperate or are integrated with the Products (“Add-Ons”). You may distribute your Add-Ons to third parties, but only for those Products permitted by Channex, and only in accordance with the Developer Guides.
+13.1 License to Developer Guides. From time to time, Channex may publish SDK’s or API’s and associated guidelines (“Developer Guides”) to allow you to develop plugins, extensions, add-ons or other software products or services that interoperate or are integrated with the Products (“Add-Ons”). You may distribute your Add-Ons to third parties, but only for those Products permitted by Channex.
 
 13.2 Conditions to Development of Add-Ons. Notwithstanding anything in this Agreement to the contrary, Channex has no support, warranty, indemnification or other obligation or liability with respect to your Add-Ons or their combination, interaction or use with the Products. You shall indemnify, defend and hold us harmless from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys’ fees and costs) arising out of or in connection with any claim brought against us by a third party relating to your Add-Ons (including but not limited to any representations or warranties you make about your Add-Ons) or your breach of this Section.
 
@@ -120,7 +121,7 @@ This Agreement is in effect for as long as you have a valid License Term or Subs
 
 18.1 Due Authority. Each party represents and warrants that it has the legal power and authority to enter into this Agreement, and that, if you are an entity, this Agreement and each Order is entered into by an employee or agent of such party with all necessary authority to bind such party to the terms and conditions of this Agreement.
 
-18.2 WARRANTY DISCLAIMER. ALL PRODUCTS ARE PROVIDED “AS IS,” AND Channex AND ITS SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE, FUNCTIONALITY, OR MERCHANTABILITY, WHETHER EXPRESS, IMPLIED, OR STATUTORY. YOU MAY HAVE OTHER STATUTORY RIGHTS, BUT THE DURATION OF STATUTORILY REQUIRED WARRANTIES, IF ANY, SHALL BE LIMITED TO THE SHORTEST PERIOD PERMITTED BY LAW. Channex SHALL NOT BE LIABLE FOR DELAYS, INTERRUPTIONS, SERVICE FAILURES AND OTHER PROBLEMS INHERENT IN USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS OR OTHER SYSTEMS OUTSIDE THE REASONABLE CONTROL OF Channex. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER Channex NOR ANY OF ITS THIRD PARTY SUPPLIERS MAKES ANY REPRESENTATION, WARRANTY OR GUARANTEE AS TO THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, TRUTH, AVAILABILITY, ACCURACY OR COMPLETENESS OF ANY PRODUCTS OR ANY CONTENT THEREIN OR GENERATED THEREWITH, OR THAT: (A) THE USE OF ANY PRODUCTS WILL BE SECURE, TIMELY, UNINTERRUPTED OR ERROR-FREE; (B) THE PRODUCTS WILL OPERATE IN COMBINATION WITH ANY OTHER HARDWARE, SOFTWARE, SYSTEM, OR DATA; (C) THE PRODUCTS (OR ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE PRODUCTS) WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS); (D) ANY STORED DATA WILL BE ACCURATE OR RELIABLE OR THAT ANY STORED DATA WILL NOT BE LOST OR CORRUPTED; (E) ERRORS OR DEFECTS WILL BE CORRECTED; OR (F) THE PRODUCTS (OR ANY SERVER(S) THAT MAKE A HOSTED SERVICE AVAILABLE) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+18.2 WARRANTY DISCLAIMER. ALL PRODUCTS ARE PROVIDED “AS IS,” AND CHANNEX AND ITS SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE, FUNCTIONALITY, OR MERCHANTABILITY, WHETHER EXPRESS, IMPLIED, OR STATUTORY. YOU MAY HAVE OTHER STATUTORY RIGHTS, BUT THE DURATION OF STATUTORILY REQUIRED WARRANTIES, IF ANY, SHALL BE LIMITED TO THE SHORTEST PERIOD PERMITTED BY LAW. Channex SHALL NOT BE LIABLE FOR DELAYS, INTERRUPTIONS, SERVICE FAILURES AND OTHER PROBLEMS INHERENT IN USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS OR OTHER SYSTEMS OUTSIDE THE REASONABLE CONTROL OF Channex. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER Channex NOR ANY OF ITS THIRD PARTY SUPPLIERS MAKES ANY REPRESENTATION, WARRANTY OR GUARANTEE AS TO THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, TRUTH, AVAILABILITY, ACCURACY OR COMPLETENESS OF ANY PRODUCTS OR ANY CONTENT THEREIN OR GENERATED THEREWITH, OR THAT: (A) THE USE OF ANY PRODUCTS WILL BE SECURE, TIMELY, UNINTERRUPTED OR ERROR-FREE; (B) THE PRODUCTS WILL OPERATE IN COMBINATION WITH ANY OTHER HARDWARE, SOFTWARE, SYSTEM, OR DATA; (C) THE PRODUCTS (OR ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE PRODUCTS) WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS); (D) ANY STORED DATA WILL BE ACCURATE OR RELIABLE OR THAT ANY STORED DATA WILL NOT BE LOST OR CORRUPTED; (E) ERRORS OR DEFECTS WILL BE CORRECTED; OR (F) THE PRODUCTS (OR ANY SERVER(S) THAT MAKE A HOSTED SERVICE AVAILABLE) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
 ## 19 Limitation of Liability.
 
@@ -136,7 +137,8 @@ Channex or third parties may from time to time make available to you (e.g., thro
 
 ## 22 Publicity Rights.
 
-We may identify you as an Channex customer in our promotional materials. You may request that we stop doing so by submitting an email to support@channex.io at any time. Please note that it may take us up to 30 days to process your request.
+We may identify you as an Channex customer in our promotional materials. We will notify you first. 
+
 
 ## 23 Improving Our Products.
 
@@ -214,7 +216,7 @@ By continuing to use or access the Services after the updates come into effect, 
 
 ### Introduction
 
-This Privacy Policy explains what information buuqit.com ltd a registered company in the UK and its related entities (“Channex”) collect about you and why, what we do with that information, how we share it, and how we handle the content you place in our products and services. It also explains the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy explains what information Channex.io ltd a registered company in the UK and its related entities (“Channex”) collect about you and why, what we do with that information, how we share it, and how we handle the content you place in our products and services. It also explains the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 We are committed to fully being UK Data Protection and the Global Data Protection Regulations (“GDPR”) compliant
 
@@ -226,7 +228,6 @@ This Privacy Policy applies to the information that we obtain through your use o
 
 - Websites
 - SaaS Products
-- Downloadable Products
 
 but does not include:
 
@@ -244,8 +245,6 @@ By registering for or using Channex Services you consent to the collection, tran
 **Add-On**: a bundle of code, resources and configuration files that can be used with an The Channex product to add new functionality or to change the behavior of that product’s existing features.
 
 **Content**: any information or data that you upload, submit, post, create, transmit, store or display in an Channex Service.
-
-**Downloadable Products**: Channex’s downloadable software products and mobile applications, including Add-Ons created by Channex, that are installed by customers on an infrastructure of their choice. Downloadable Products do not include Add-Ons created by third parties, even when they are accessed through Channex.com or available through the Channex Marketplace.
 
 **Information**: all of the different forms of data, content, and information collected by us as described in this Privacy Policy.
 
@@ -288,21 +287,13 @@ Analytics Information from Website and SaaS Products: We collect analytics infor
 
 The analytics information we collect includes elements of Content related to the function the user is performing. As such, the analytics information we collect may include Personal Information or sensitive business information that the user has included in Content that the user chose to upload, submit, post, create, transmit, store or display in an Channex Service.
 
-As of the date this policy went into effect, we use Google Analytics as an analytics provider. To learn more about the privacy policy of Google Analytics, refer to Google’s Policies and Principles. Use the Google Analytics Opt-out Browser Add-on to prevent analytics information from being sent to Google Analytics.
-
-Analytics Information Derived from Content. Analytics information also consists of data we collect as a result of running queries against Content across our user base for the purposes of generating Usage Data. “Usage Data” is aggregated data about a group or category of services, features or users that does not contain Personal Information. For example, we may query Content to determine the most common types of workflows that users use by searching for the most common workflow.
-
 Though we may happen upon sensitive or Personal Information as we compile Usage Data from Content across user instances, this is a byproduct of our efforts to understand broader patterns and trends. It is not a concerted effort by us to examine the Content of any particular customer.
 
-Analytics Information from Downloadable Products: We collect analytics information when you use our Downloadable Products to help us improve our products and services. Our Downloadable Products contain a feature that sends information about the technical operation of the Downloadable Products on your systems (“System Information”) to us. System Information includes information about (a) the server environment in which the Downloadable Product is operating: OS type and version, JVM version, Java environment properties, CPU type, RAM allocation, language and locale settings, database type and version, and disk utilisation, as well as (b) user client information, for example: browser type and version, native client type and version, and client device specifications (e.g. screen resolution, OS version, device type, etc.). In addition, we collect analytics information from Downloadable Products that is a subset of the analytics information described above for Websites and SaaS Products. As with Websites and SaaS Products, the analytics information we collect includes elements of Content related to the function the user is performing, but with an important caveat. With the Downloadable Products, before sending the information to Channex’s servers, we filter the analytics information to remove elements that we believe may contain sensitive or Personal Information. For example: (1) we conduct a one-way hash of usernames and hostnames before collecting them and (2) we filter any Content elements we collect to discard all words except those on a list of common business and IT terminology. You can disable our collection of analytics information from Downloadable Products via the Administrator settings or by blocking collection at the local network level.
-
-Installer Analytics, Software Updates & License Information from Downloadable Products: During the installation of our Downloadable Products, the installer sends analytics information to Channex to allow us to understand where in the installation process users are experiencing trouble or dropping out. Our Downloadable Products also communicate with Channex servers for licensing purposes, as well as to check for updates, patches, and compatibility with Add-Ons. Examples of information we collect for these purposes include the name and version of the Downloadable Product and the server ID, SEN, and IP address of the customer instance.
 
 Cookies and Other Tracking Technologies: Channex and our third party partners, such as our advertising and analytics partners, use various technologies to collect information, such as cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory. We use cookies to improve and customise Channex Services and your experience; to allow you to access and use the Websites or SaaS Products without re-entering your username or password; and to count visits and understand which areas and features of the Websites and SaaS Products are most popular. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Websites or SaaS Products. Channex and our third party partners also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Websites or SaaS Products or in emails that help us to deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.
 
 Channex and our third party partners also use javascript, e-tags, “flash cookies”, and HTML5 local storage to collect information about your online activities over time and across different websites or online services. Many browsers include their own management tools for removing HTML5 local storage objects. To manage “flash cookies” please click here.
 
-You may be able to opt out of receiving personalized advertisements as described below under “Your Choices.”
 
 ### How we use Information we collect
 
@@ -369,7 +360,6 @@ Channex hosts data with hosting service providers in numerous countries includin
 
 Where data is transferred over the Internet as part of a Website or SaaS Product, the data is encrypted using industry standard SSL (HTTPS).
 
-Where Downloadable Products are used, responsibility of securing access to the data you store in the Downloadable Products rests with you and not Channex. We strongly recommend that administrators of Downloadable Products configure SSL to prevent interception of data transmitted over networks and to restrict access to the databases and other storage used to hold data.
 
 ### Your Choices
 
@@ -475,7 +465,7 @@ Without affecting any other remedies available to us, Channex may permanently or
 
 ### Executive Overview
 
-The Channex Enterprise Connectivity Platform is designed to help Enterprises and Independent Software Vendors (ISVs) securely connect channels and deliver them to hotels, customers, and or partners. Channex realizes that helping to protect our customer’s data, ensure proper security regulations, and mitigate any potential risk is essential to building trust and delivering a high-level of service. Channex takes a risk based approach to security and this paper will detail the many different measures and technologies in place to protect our customers.
+The Channex Connectivity Platform is designed to help Enterprises and Independent Software Vendors (ISVs) securely connect channels and deliver them to hotels, customers, and or partners. Channex realizes that helping to protect our customer’s data, ensure proper security regulations, and mitigate any potential risk is essential to building trust and delivering a high-level of service. Channex takes a risk based approach to security and this paper will detail the many different measures and technologies in place to protect our customers.
 
 Our security implementation allows us to adhere to the following best practices, demonstrating our commitment to customer security and privacy:
 
@@ -555,7 +545,8 @@ Customer data is not stored for longer that it is needed.  We require data about
 
 Data is also removed if deemed out of date, or no longer valid.  This can happen from removal of connected services, termination of accounts, or other events originating from connected service providers.
 
-Bookings will be deleted once they reach 2 years after departure date.
+Properties are removed after 3 months of no channels
+Bookings will be deleted once they reach 3 month after departure date.
 
 Availability, Rates and Restriction data is removed for past dates daily.
 
