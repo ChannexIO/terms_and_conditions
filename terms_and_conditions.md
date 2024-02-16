@@ -2,7 +2,7 @@
 
 *Effective starting: February 18, 2024*
 
-*What has changed since the 2002 agreement*
+*What has changed since the 2020 agreement*
 - Removed some unneeded paragraphs covering downloadable software
 - Added exception to the agreement if you have signed a direct agreement with Channex
 
